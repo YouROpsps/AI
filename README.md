@@ -43,7 +43,7 @@ AITeam is a full-stack AI platform where **4 specialized AI agents** collaborate
 
 ```bash
 git clone https://github.com/YouROpsps/AI.git
-cd aiteam
+cd ai
 npm install
 ```
 
