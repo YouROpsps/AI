@@ -23,9 +23,13 @@ AITeam is a full-stack AI platform where **4 specialized AI agents** collaborate
 
 ## 📸 Screenshots
 
-![AITeam Dashboard](./screenshots/dashboard.png)
-
+### Dashboard
+![AITeam Dashboard](./dashboard.png)
 *Main dashboard — select AI provider and describe your website*
+
+### Generated Website
+![Generated Result](./result.png)
+*AI-generated website with responsive design and interactive features*
 
 ---
 
