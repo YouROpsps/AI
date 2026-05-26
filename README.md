@@ -21,6 +21,14 @@ AITeam is a full-stack AI platform where **4 specialized AI agents** collaborate
 
 ---
 
+## 📸 Screenshots
+
+![AITeam Dashboard](./screenshots/dashboard.png)
+
+*Main dashboard — select AI provider and describe your website*
+
+---
+
 ## Supported AI Providers
 
 | Provider | Icon | Get Key |
@@ -88,6 +96,7 @@ aiteam/
 ├── index.html         # Frontend dashboard
 ├── package.json
 ├── .env.example       # Environment config template
+├── screenshots/       # Demo screenshots
 └── README.md
 ```
 
